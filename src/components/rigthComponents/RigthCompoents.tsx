@@ -1,5 +1,15 @@
-export default function RigthComponents (){
-    return(
-        <h1 className="bg-green-500 w-96">Rigth</h1>
-    )
+import Education from "./components/Education";
+import Experience from "./components/Experience";
+
+export default function RigthComponents() {
+  return (
+    <>
+    <div className="w-[310px] h-[830px]   bg-white rounded-[10px]">
+    <Experience />
+    <Education/>
+    </div>
+     
+      
+    </>
+  );
 }

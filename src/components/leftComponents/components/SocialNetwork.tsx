@@ -12,7 +12,7 @@ export default function SocialNetwork() {
           isBlock
           isExternal
           showAnchorIcon
-          href="#"
+          href="https://www.linkedin.com/in/iv%C3%A1n-guti%C3%A9rrez-del-toro-1a0442233/"
       
         >
           Linkedin
