@@ -1,7 +1,9 @@
 import AvatarPefil from "./components/AvatarPerfil";
 import Contacto from "./components/Contactos";
+import Hobbies from "./components/Hobbie";
 import Idioma from "./components/Idioma";
 import Name from "./components/Name";
+import SocialNetwork from "./components/SocialNetwork";
 
 export default function LeftComponents() {
   return (
@@ -13,6 +15,8 @@ export default function LeftComponents() {
         </div>
         <Contacto/>
         <Idioma/>
+        <SocialNetwork/>
+        <Hobbies/>
       </div>
     </div>
   );
