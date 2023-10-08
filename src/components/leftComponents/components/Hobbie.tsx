@@ -27,7 +27,7 @@ export default function Hobbies() {
         <div className="mt-2 text-center">
           <Game fill="#ffffff" />
           <p className="text-neutral-200 text-[15px] font-bold font-['Montserrat'] leading-[18px]">
-            Video Juegos
+            Juegos
           </p>
         </div>
       </div>
