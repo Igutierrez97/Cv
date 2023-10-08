@@ -18,7 +18,7 @@ export default function Experience() {
             QA Manual
           </p>
           <p className="text-slate-500 text-[9px] font-normal font-['Calibri'] leading-[18px]">
-            Enero 2021 - Present - 2 años
+            Enero 2021 - Presente - 2 años
           </p>
           <p className="w-[261px] h-[42px] text-black text-opacity-80 text-[9px] font-normal font-['Calibri'] leading-[14px]">Durante dos años, he trabajado como QA Manual en la Universidad de las Ciencias Informáticas, aplicando casos de pruebas y listas de chequeo a diversos softwares. He adquirido experiencia en la identificación y solución de problemas, colaborando con equipos multidisciplinarios y asegurando la calidad de los productos.</p>
         </div>
@@ -31,7 +31,7 @@ export default function Experience() {
             Dev Fronted
           </p>
           <p className="text-slate-500 text-[9px] font-normal font-['Calibri'] leading-[18px]">
-            Diciembre 2022 - Present - 1 años
+            Diciembre 2022 - Presente - 1 años
           </p>
           <p className="w-[261px] h-[42px] text-black text-opacity-80 text-[9px] font-normal font-['Calibri'] leading-[14px]">Durante un año, he trabajado en Xetid como Desarrollador Frontend con React, donde he sido parte de un equipo multidisciplinario y he contribuido al diseño, implementación y mantenimiento de aplicaciones web de alta calidad. Mi enfoque se ha centrado en la creación de interfaces intuitivas y responsivas, demostrando sólidos conocimientos en programación frontend.</p>
         </div>
