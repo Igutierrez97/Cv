@@ -1,3 +1,5 @@
+import DescargarCvPdf from "./DescargarCvPdf";
+
 export default function Name() {
   return (
     <div>
@@ -7,6 +9,7 @@ export default function Name() {
       <div className="text-stone-300 text-[15px] font-bold font-['Montserrat']">
         Fronted Developer
       </div>
+      <DescargarCvPdf/>
     </div>
   );
 }
