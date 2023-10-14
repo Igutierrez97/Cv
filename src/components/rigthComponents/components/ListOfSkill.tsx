@@ -35,11 +35,10 @@ export default function ListOfSkill() {
           <p>Docker</p>
         </div>
       </div>
-      <div className="flex h-[68px] rounded-b-lg rounded-t-none items-center bg-fuchsia-500">
+      <div className="flex h-[68px] rounded-b-lg rounded-t-none text-center justify-center items-center bg-fuchsia-500">
         <Test className="m-0" />
-        <p className="text-sm mx-1 w-3/4">
-          QA Manual: Creacion y Aplicacion de Casos de Pruebas y Listas de
-          chequeo de Usabilidad.
+        <p className="text-sm mx-1">
+          QA Manual
         </p>
       </div>
     </>
