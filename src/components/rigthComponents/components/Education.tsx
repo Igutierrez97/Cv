@@ -1,7 +1,7 @@
 export default function Education() {
   return (
     <>
-      <div className="flex items-center justify-center mt-16">
+      <div className="flex items-center justify-center mt-1">
         <div className="w-[154px] text-center text-white h-6 bg-neutral-600 rounded-[5px]">
           Educación
         </div>

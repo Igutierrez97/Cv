@@ -4,7 +4,7 @@ import RigthComponents from "@/components/rigthComponents/RigthCompoents";
 
 export default function Home() {
   return (
-    <main className="min-h-screen flex flex-col m-0 items-center">
+    <main className="min-h-screen flex flex-col sm:flex-row sm:justify-center sm:items-start sm:gap-2 m-0 items-center">
       <LeftComponents/>
       <RigthComponents/>
     </main>

@@ -23,7 +23,7 @@ export default function ListOfSkill() {
           <p>React Js</p>
         </div>
         <div className="flex flex-col bg-yellow-500 items-center">
-          <Next className="m-0" />
+          <Next className=" mt-1" />
           <p>Next JS</p>
         </div>
         <div className="flex flex-col items-center bg-orange-500">
